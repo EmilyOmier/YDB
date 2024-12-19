@@ -1,5 +1,23 @@
 # YottaDB
 
+The fastest, highest consistency data store for applications with thousands to millions of concurrent users. 
+
+YottaDB is a high performance, highly consistent database engine relied on by financial and healthcare institutions with millions of concurrent users. 
+
+## Highest possible data consistency, at scale
+
+YottaDB runs on a single node and does not scale horizontally. It is also able to handle ACID transactions and has retry logic that is automated out of the box. As a result, it provides the best possible data consistency even for deployments with millions of concurrent users. 
+
+## High performance at millions of users
+
+YottaDB runs in process. As a result, millions of users can use the system at the same time without sacrificing speed or consistency. 
+
+## Very flexible data layer
+
+Using YottaDB gives you maximum flexibility at the data layer, throughout the entire application lifecycle. With YottaDB, permissions are implemented at either the operating system or the application layer, and configurations are done with environment variables. 
+
+## Who should use YottaDB? 
+
 All software in this package is part of YottaDB (https://yottadb.com) each
 file of which identifies its copyright holders. The software is made available
 to you under the terms of a license. Refer to the [LICENSE](LICENSE) file for details.
